@@ -1,6 +1,6 @@
 # HareOps 🐇
 
-![HareOps Logo](https://dummyimage.com/600x200/000/fff\&text=HareOps+Logo)
+![HareOps Logo](https://dummyimage.com/600x200/000/fff\&text=HareOps)
 
 > **Fast insight, calm RabbitMQ.**
 >
